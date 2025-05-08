@@ -10,7 +10,7 @@ A simple and interactive weather widget built with React, fetching real-time dat
 2) OpenWeatherMap API - To fetch real-time weather data.
 3) Material UI - For UI components like buttons, text fields, and cards.
 4) CSS - For styling and layout.
-#Usage
+# Usage
 1) Open the app.
 2) Enter the name of any city in the text box.
 3) The weather details for the city will be displayed on the widget.
